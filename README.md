@@ -20,10 +20,7 @@ Build a professional and beautiful todolist with the ability to drag and drop, a
 
 ## View of the project
 
-<video width="270" autoplay loop muted style="border-radius: 20px">
-  <source src="./public/FolderShowTemplateProject/vid-show-func.mp4" type="video/mp4">
-  Your browser does not support video playback.
-</video>
+<img src="./public/FolderShowTemplateProject/vid.gif" width="350px"/>
 
 ## Getting Started
 
