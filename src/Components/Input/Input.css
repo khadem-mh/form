@@ -1,0 +1,58 @@
+.parent-input {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+input {
+    border: 1px solid lightgray;
+    padding: .8rem 1rem;
+    border-radius: .5rem;
+    margin: .8rem 0;
+    background-color: transparent;
+    font-size: 1.1rem;
+    transition: all 1s ease;
+}
+
+input:focus {
+    outline: 0;
+}
+
+.parent-input__icon {
+    background-color: gray;
+    padding: .8rem .4rem;
+    border-radius: 50rem;
+    color: white;
+    font-size: 1.2rem;
+    margin-left: 1rem;
+    position: relative;
+}
+
+.parent-input__icon::before {
+    content: "";
+    width: 22px;
+    height: 3px;
+    position: absolute;
+    background-color: gray;
+    right: -22px;
+    top: 20px;
+}
+
+.icon-form-valid::before {
+    transition: all 500ms;
+    background-color: rgb(75, 255, 47);
+}
+
+.icon-form-invalid::before {
+    transition: all 500ms;
+    background-color: rgba(165, 42, 42, .4);
+}
+
+.valid-input {
+    box-shadow: 10px 10px 2px rgba(0, 128, 0, .4);
+}
+
+.invalid-input {
+    box-shadow: 10px 10px 2px rgba(165, 42, 42, .4);
+}

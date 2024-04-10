@@ -1,0 +1,22 @@
+.button {
+    border: 0;
+    padding: 1rem 1.5rem;
+    border-radius: .5rem;
+    margin: .5rem 0;
+    background-color: transparent;
+    box-shadow: 0 0 10px lightgray;
+    cursor: pointer;
+    transition: all 400ms;
+    color: gray;
+}
+
+button:disabled {
+    background-color: transparent !important;
+    color: gray !important;
+    cursor: default;
+}
+
+.button:hover {
+    background-color: lightgray;
+    color: rgb(24, 26, 27);
+}
