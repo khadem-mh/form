@@ -3,7 +3,7 @@
 # <p align="center"> Hi there 👋 I'm Mohammad Hossein 👨‍💻 </p>
  <p align="center"> React Js expert and FrontEnd Developer from Iran.</p>
 
-## Descripton Project
+## Description Project
 - Create a beautiful and very useful form on login and register pages and ... React JS. 
 
 - Fully optimized and cleanly programmed, and the principle of being a base component in this project is respected. 
