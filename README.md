@@ -21,43 +21,11 @@
 >### Packages
 >> ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=CB58F7FF&random=false&width=150&height=25&lines=React+Icons)
 
+check this [URL online](https://form-coral-one.vercel.app/) for visit this page
+
 ## View of the project
 
 <img src="./public/FolderShowTemplateProject/vid.gif" width="350px"/>
-
-## Getting Started
-
-Before running the project, it is necessary to install npm on your system, then you can put the following command in the path of the project
-
-and after installing the related packages run the project.
-
-```
-> npm install
-```
-OR
-```
-> npm i
-```
-
-Then, after you finish installing the packages, run this command to start your React program.
-
-```
-> npm start
-```
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### Guid
-If you are not installed on your system Node.js and Npm, go to this [Link Install](https://nodejs.org/en/download) and install and then proceed to the above steps
-
-Install Node.js and NPM in Windows via Node.js Installer
-
 ___
 >### Social Network
 > [<img src="./public/Images/github.png" width="30">](https://github.com/khadem-mh)
