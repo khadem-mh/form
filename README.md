@@ -26,6 +26,7 @@ check this [URL online](https://form-coral-one.vercel.app/) for visit this page
 ## View of the project
 
 <img src="./public/FolderShowTemplateProject/vid.gif" width="350px"/>
+
 ___
 >### Social Network
 > [<img src="./public/Images/github.png" width="30">](https://github.com/khadem-mh)
